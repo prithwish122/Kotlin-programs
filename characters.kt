@@ -1,5 +1,5 @@
 fun main()
 {    
-    for (chars in 'a'..'x')
+    for (chars in 'a'..'x')   
     println(chars)
 }
